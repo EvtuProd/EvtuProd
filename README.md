@@ -1,9 +1,14 @@
 
 # Привет! 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23333&lines=Student+of+Applied+Informatics)
 
 Меня зовут Тухачевский Евгений. Я системный администратор, разработчик программного обеспечения и junion DevOps. Я из России, в настоящее время живу в Москве.
 
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 ## 🔧 Технологии и инструменты
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvtuProd&layout=compact)
 
 ### Операционные системы:
 ![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
