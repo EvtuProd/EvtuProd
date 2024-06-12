@@ -28,7 +28,6 @@
 ![Zabbix](https://img.shields.io/badge/-Zabbix-333?style=flat&logo=zabbix&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-333?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-333?style=flat&logo=grafana&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/-ELK%20Stack-333?style=flat&logo=elasticsearch)
 
 ### Виртуализация:
 ![VMware vSphere / ESXi](https://img.shields.io/badge/-VMware%20vSphere%20%2F%20ESXi-333?style=flat&logo=vmware&logoColor=white)
